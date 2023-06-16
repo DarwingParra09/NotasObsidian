@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9dfeb3353cfbdc73",
+        "id": "fb7c3448041f94b6",
         "type": "tabs",
         "children": [
           {
-            "id": "4800b4a9294b468c",
+            "id": "c2fbcf9ec6a4d32d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md"
+              }
             }
           }
         ]
@@ -138,8 +146,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "58d0cfcab92e2cf2",
+  "active": "c2fbcf9ec6a4d32d",
   "lastOpenFiles": [
+    "Pentesting/Ciberseguridad/Fundamentos Linux/3. Gestión del sistema.md",
+    "Pentesting/Ciberseguridad/HORARIOS DE ESTUDIO ⏰.md",
+    "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616092636.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616092411.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616091257.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616090948.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616090658.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616085846.png",
+    "os.md",
+    "Pentesting/Ciberseguridad/Python 🐍/1.Escala de privilegios Linux.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616085206.png",
+    "Pentesting/Python/EjecucionFicheros.py",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230615204445.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230615204210.png",
+    "Untitled",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230615203035.png",
     "Pentesting/Python/EscalaPrivilegios.py",
     "Pentesting/Python"
   ]
