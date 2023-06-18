@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
+                "file": "Pentesting/Ciberseguridad/Fundamentos Linux/3. Gestión del sistema.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
+                "file": "Pentesting/Ciberseguridad/Fundamentos Linux/3. Gestión del sistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
+                "file": "Pentesting/Ciberseguridad/Fundamentos Linux/3. Gestión del sistema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md"
+                "file": "Pentesting/Ciberseguridad/Fundamentos Linux/3. Gestión del sistema.md"
               }
             }
           }
@@ -146,25 +146,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c2fbcf9ec6a4d32d",
+  "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
-    "Pentesting/Ciberseguridad/Fundamentos Linux/3. Gestión del sistema.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230617181218.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230617180534.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230617175740.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230617174319.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230617174107.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230617172823.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230617171658.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230617163739.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230617163649.png",
     "Pentesting/Ciberseguridad/HORARIOS DE ESTUDIO ⏰.md",
     "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
+    "Pentesting/Ciberseguridad/Fundamentos Linux/3. Gestión del sistema.md",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616092636.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616092411.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616091257.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616090948.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616090658.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616085846.png",
     "os.md",
     "Pentesting/Ciberseguridad/Python 🐍/1.Escala de privilegios Linux.md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230616085206.png",
     "Pentesting/Python/EjecucionFicheros.py",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230615204445.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230615204210.png",
     "Untitled",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230615203035.png",
     "Pentesting/Python/EscalaPrivilegios.py",
     "Pentesting/Python"
   ]
