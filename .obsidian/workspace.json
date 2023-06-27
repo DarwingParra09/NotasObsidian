@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Fundamentos Linux/4. Configuración de interfaces de red.md",
+                "file": "Pentesting/Ciberseguridad/HORARIOS DE ESTUDIO ⏰.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc39927c883b81a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Ciberseguridad/2.Comenzamos/1.Seguridad de la información.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbfa53d84ed91d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Configuración.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Fundamentos Linux/4. Configuración de interfaces de red.md",
+                "file": "2. Configuración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Fundamentos Linux/4. Configuración de interfaces de red.md",
+                "file": "2. Configuración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Fundamentos Linux/4. Configuración de interfaces de red.md"
+                "file": "2. Configuración.md"
               }
             }
           }
@@ -159,8 +183,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "58d0cfcab92e2cf2",
+  "active": "cbfa53d84ed91d3d",
   "lastOpenFiles": [
+    "Pentesting/Ciberseguridad/2.Comenzamos/1.Seguridad de la información.md",
+    "2. Configuración.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230627162251.png",
+    "Pentesting/Ciberseguridad/HORARIOS DE ESTUDIO ⏰.md",
+    "Pentesting/Ciberseguridad/2.Comenzamos",
+    "Pentesting/Ciberseguridad/1.Fundamentos Linux/4. Configuración de interfaces de red.md",
+    "Pentesting/Ciberseguridad/Python 🐍/3. Reverse Shell.md",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230627040723.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230627033915.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230627033523.png",
@@ -170,18 +201,13 @@
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230627032959.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230627013349.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230627012253.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230627012227.png",
-    "Pasted image 20230627012126.png",
-    "Pentesting/Ciberseguridad/Fundamentos Linux/4. Configuración de interfaces de red.md",
-    "Pentesting/Ciberseguridad/Python 🐍/3. Reverse Shell.md",
     "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
     "Pentesting/Ciberseguridad/Python 🐍/1.Escala de privilegios Linux.md",
-    "Pentesting/Ciberseguridad/Fundamentos Linux/1. Obtención de ayuda 📚.md",
+    "Pentesting/Ciberseguridad/1.Fundamentos Linux/1. Obtención de ayuda 📚.md",
     "Pentesting/Python/netcat-1.11/nc64.exe",
-    "Pentesting/Ciberseguridad/Fundamentos Linux/3. Gestión del sistema.md",
-    "Pentesting/Ciberseguridad/Fundamentos Linux/2. Flujo de Trabajo💻.md",
+    "Pentesting/Ciberseguridad/1.Fundamentos Linux/3. Gestión del sistema.md",
+    "Pentesting/Ciberseguridad/1.Fundamentos Linux/2. Flujo de Trabajo💻.md",
     "README.md",
-    "Pentesting/Ciberseguridad/HORARIOS DE ESTUDIO ⏰.md",
     "Pentesting/Python/dist/netcat-1.11/nc.exe",
     "Pentesting/Python/dist/netcat-1.11/readme.txt",
     "Pentesting/Python/dist/netcat-1.11/netcat.c",
@@ -190,7 +216,6 @@
     "Pentesting/Python/dist/netcat-1.11/license.txt",
     "Pentesting/Python/dist/netcat-1.11/hobbit.txt",
     "Pentesting/Python/dist/netcat-1.11/getopt.h",
-    "Pentesting/Python/dist/netcat-1.11/getopt.c",
     "os.md"
   ]
 }
