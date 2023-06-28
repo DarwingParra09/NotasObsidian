@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Configuración.md",
+                "file": "Pentesting/Ciberseguridad/2.Comenzamos/2. Configuración.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Configuración.md",
+                "file": "Pentesting/Ciberseguridad/2.Comenzamos/2. Configuración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Configuración.md",
+                "file": "Pentesting/Ciberseguridad/2.Comenzamos/2. Configuración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Configuración.md"
+                "file": "Pentesting/Ciberseguridad/2.Comenzamos/2. Configuración.md"
               }
             }
           }
@@ -186,9 +186,9 @@
   "active": "cbfa53d84ed91d3d",
   "lastOpenFiles": [
     "Pentesting/Ciberseguridad/2.Comenzamos/1.Seguridad de la información.md",
-    "2. Configuración.md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230627162251.png",
     "Pentesting/Ciberseguridad/HORARIOS DE ESTUDIO ⏰.md",
+    "Pentesting/Ciberseguridad/2.Comenzamos/2. Configuración.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230627162251.png",
     "Pentesting/Ciberseguridad/2.Comenzamos",
     "Pentesting/Ciberseguridad/1.Fundamentos Linux/4. Configuración de interfaces de red.md",
     "Pentesting/Ciberseguridad/Python 🐍/3. Reverse Shell.md",
