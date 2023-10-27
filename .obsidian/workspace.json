@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Ciberseguridad/2.Comenzamos/1.Seguridad de la información.md",
+                "file": "Maquinas/Troll2/Maquina Troll2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "678b5cb67d7e4d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230629021137 1.png",
+                "file": "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230629021137 1.png",
+                "file": "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230629021137 1.png"
+                "file": "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md"
               }
             }
           }
@@ -148,24 +161,27 @@
   },
   "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230629021604 1.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230629021137 1.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231027005419.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231027005154.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231027005010.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231027004905.png",
+    "Pentesting/Ciberseguridad/1.Fundamentos Linux/2. Flujo de Trabajo💻.md",
+    "Pentesting/Ciberseguridad/REFERENCIAS DE COMANDOS 🖥.md",
+    "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231027003231.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231027003921.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231027003646.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231027003427.png",
+    "Pentesting/Ciberseguridad/3.Redes",
     "Maquinas/Troll2/Maquina Troll2.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230629021137 1.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20230629021604 1.png",
     "Pentesting/Ciberseguridad/2.Comenzamos/2. Configuración.md",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231025174504.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231021173548.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231021173247.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231021151810.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231020172206.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231020171850.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231020170402.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231020143706.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231020021426.png",
     "Maquinas/Troll2",
     "Maquinas",
     "Pentesting/Ciberseguridad/2.Comenzamos/1.Seguridad de la información.md",
     "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
-    "Pentesting/Ciberseguridad/REFERENCIAS DE COMANDOS 🖥.md",
     "Pentesting/Ciberseguridad/HORARIOS DE ESTUDIO ⏰.md",
     "Pentesting/Ciberseguridad/2.Comenzamos",
     "Pentesting/Ciberseguridad/1.Fundamentos Linux/4. Configuración de interfaces de red.md",
@@ -174,14 +190,12 @@
     "Pentesting/Ciberseguridad/1.Fundamentos Linux/1. Obtención de ayuda 📚.md",
     "Pentesting/Python/netcat-1.11/nc64.exe",
     "Pentesting/Ciberseguridad/1.Fundamentos Linux/3. Gestión del sistema.md",
-    "Pentesting/Ciberseguridad/1.Fundamentos Linux/2. Flujo de Trabajo💻.md",
     "README.md",
     "Pentesting/Python/dist/netcat-1.11/nc.exe",
     "Pentesting/Python/dist/netcat-1.11/readme.txt",
     "Pentesting/Python/dist/netcat-1.11/netcat.c",
     "Pentesting/Python/dist/netcat-1.11/nc64.exe",
     "Pentesting/Python/dist/netcat-1.11/Makefile",
-    "Pentesting/Python/dist/netcat-1.11/license.txt",
     "os.md"
   ]
 }
