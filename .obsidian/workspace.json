@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/Maquina Bob/Maquina Bob.md",
+                "file": "Maquinas/KIRA/Maquina Kira.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6a5f1d7dc3bb588b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maquinas/Maquina Bob/Maquina Bob.md",
+                "file": "Maquinas/KIRA/Maquina Kira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maquinas/Maquina Bob/Maquina Bob.md",
+                "file": "Maquinas/KIRA/Maquina Kira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maquinas/Maquina Bob/Maquina Bob.md"
+                "file": "Maquinas/KIRA/Maquina Kira.md"
               }
             }
           }
@@ -149,19 +148,20 @@
   },
   "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102230454.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102145401.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102144546.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102144502.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102141750.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102141545.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102141141.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102130805.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102130036.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102125950.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231102125605.png",
     "Maquinas/Troll2/Maquina Troll2.md",
     "Maquinas/Maquina Bob/Maquina Bob.md",
+    "Maquinas/KIRA/Maquina Kira.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231130174526.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231129234934.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231129234433.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231129233827.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231129233229.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231129230625.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231129230605.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231129225049.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231129224744.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231129224351.png",
+    "Maquinas/KIRA",
     "Maquinas/Maquina Bob",
     "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
     "Pentesting/Ciberseguridad/1.Fundamentos Linux/2. Flujo de Trabajo💻.md",
@@ -184,7 +184,6 @@
     "Pentesting/Python/dist/netcat-1.11/nc.exe",
     "Pentesting/Python/dist/netcat-1.11/readme.txt",
     "Pentesting/Python/dist/netcat-1.11/netcat.c",
-    "Pentesting/Python/dist/netcat-1.11/nc64.exe",
     "os.md"
   ]
 }
