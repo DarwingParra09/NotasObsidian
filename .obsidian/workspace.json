@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquina W1R3S.md",
+                "file": "Maquinas/Maquina W1R3S.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6a5f1d7dc3bb588b",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maquina W1R3S.md",
+                "file": "Maquinas/Maquina W1R3S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maquina W1R3S.md",
+                "file": "Maquinas/Maquina W1R3S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maquina W1R3S.md"
+                "file": "Maquinas/Maquina W1R3S.md"
               }
             }
           }
@@ -160,20 +159,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3207ff8438d04629",
+  "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
     "Maquinas/Maquina Victim -1.md",
-    "Maquina W1R3S.md",
-    "Pasted image 20231212172826.png",
-    "Pasted image 20231212172756.png",
-    "Pasted image 20231212172351.png",
-    "Pasted image 20231212172151.png",
-    "Pasted image 20231212165452.png",
-    "Pasted image 20231212165356.png",
-    "Pasted image 20231212165314.png",
-    "Pasted image 20231212164955.png",
-    "Pasted image 20231212164924.png",
-    "Pasted image 20231212164224.png",
+    "Maquinas/Maquina W1R3S.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212172826.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212172756.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212172351.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212172151.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212165452.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212165356.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212165314.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212164955.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212164924.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212164224.png",
     "Maquinas/Maquina Troll2.md",
     "Maquinas/Maquina Kira.md",
     "Maquinas/Maquina Bob.md",
