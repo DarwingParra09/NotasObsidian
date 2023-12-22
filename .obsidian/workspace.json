@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73c6aae529ba127d",
+            "id": "81c0b84b00bf0c55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/Maquina Victim -1.md",
+                "file": "Maquinas/Maquina Kira.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3207ff8438d04629",
+            "id": "f82f3078749ee37d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/Maquina W1R3S.md",
+                "file": "Maquinas/Maquina BossPlayers.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6a5f1d7dc3bb588b",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maquinas/Maquina W1R3S.md",
+                "file": "Maquinas/Maquina BossPlayers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maquinas/Maquina W1R3S.md",
+                "file": "Maquinas/Maquina BossPlayers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maquinas/Maquina W1R3S.md"
+                "file": "Maquinas/Maquina BossPlayers.md"
               }
             }
           }
@@ -161,21 +162,23 @@
   },
   "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
-    "Maquinas/Maquina Victim -1.md",
-    "Maquinas/Maquina W1R3S.md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212172826.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212172756.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212172351.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212172151.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212165452.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212165356.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212165314.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212164955.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212164924.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231212164224.png",
-    "Maquinas/Maquina Troll2.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231215055912.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231215055818.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231215055741.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231215055703.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231215054756.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231215054018.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231214183603.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231214183301.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231214170811.png",
     "Maquinas/Maquina Kira.md",
     "Maquinas/Maquina Bob.md",
+    "Maquinas/Maquina BossPlayers.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231214170031.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20231214170011.png",
+    "Maquinas/Maquina W1R3S.md",
+    "Maquinas/Maquina Victim -1.md",
+    "Maquinas/Maquina Troll2.md",
     "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
     "Maquinas/Victim - 1",
     "Maquinas/KIRA",
