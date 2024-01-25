@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/Maquina Dpwwn.md",
+                "file": "Maquinas/Maquina Recon.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "58c40235a6e784ce",
+            "id": "38392506908b2463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/Maquina_Monitoring.md",
+                "file": "Maquinas/Maquina_Hackaton.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maquinas/Maquina_Monitoring.md",
+                "file": "Maquinas/Maquina_Hackaton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maquinas/Maquina_Monitoring.md",
+                "file": "Maquinas/Maquina_Hackaton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maquinas/Maquina_Monitoring.md"
+                "file": "Maquinas/Maquina_Hackaton.md"
               }
             }
           }
@@ -173,22 +173,24 @@
   },
   "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240123233134.png",
-    "Pentesting/Ciberseguridad/Pasted image 20240123232430.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240123231637.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240123190904.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240123190804.png",
-    "Maquinas/Maquina_Pwned.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124211208.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124211009.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124204509.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124203405.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124203337.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124202840.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124202449.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124201628.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124194501.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124194439.png",
+    "Maquinas/Maquina Recon.md",
     "Maquinas/Maquina_Monitoring.md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240123183651.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240123182514.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240122230302.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240122230042.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240122225852.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240122224957.png",
-    "Maquinas/Maquina Dpwwn.md",
-    "Maquinas/Maquina PwnLab.md",
     "Maquinas/Maquina Who-wants-to-be-king.md",
+    "Maquinas/Maquina Dpwwn.md",
+    "Maquinas/Maquina_Pwned.md",
+    "Maquinas/Maquina_Hackaton.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240124191205.png",
+    "Maquinas/Maquina PwnLab.md",
     "Maquinas/Maquina DomDom.md",
     "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
     "Maquinas/Maquina Agent.md",
@@ -200,7 +202,6 @@
     "Maquinas/Maquina Bob.md",
     "Maquinas/Maquina Kira.md",
     "Maquinas/Maquina W1R3S.md",
-    "Maquinas/Maquina Recon.md",
     "Maquinas/Maquina Troll2.md",
     "Maquinas/Victim - 1",
     "Maquinas/KIRA",
@@ -215,7 +216,6 @@
     "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
     "Pentesting/Ciberseguridad/HORARIOS DE ESTUDIO ⏰.md",
     "Pentesting/Ciberseguridad/2.Comenzamos",
-    "Pentesting/Ciberseguridad/1.Fundamentos Linux/4. Configuración de interfaces de red.md",
     "Pentesting/Python/netcat-1.11/nc64.exe",
     "Pentesting/Python/dist/netcat-1.11/nc.exe",
     "Pentesting/Python/dist/netcat-1.11/readme.txt"
