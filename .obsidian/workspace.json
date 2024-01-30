@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fb7c3448041f94b6",
+        "id": "ca784321bd211f5f",
         "type": "tabs",
         "children": [
           {
-            "id": "38392506908b2463",
+            "id": "23cb64c3d1cf3970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/Maquina_Cybersploit.md",
+                "file": "Maquinas/Maquina_Pwned.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fd3f0dc9aab728f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maquinas/Maquina_Cybersploit-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maquinas/Maquina_Cybersploit.md",
+                "file": "Maquinas/Maquina_Cybersploit-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maquinas/Maquina_Cybersploit.md",
+                "file": "Maquinas/Maquina_Cybersploit-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maquinas/Maquina_Cybersploit.md"
+                "file": "Maquinas/Maquina_Cybersploit-2.md"
               }
             }
           }
@@ -147,24 +160,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "58d0cfcab92e2cf2",
+  "active": "3fd3f0dc9aab728f",
   "lastOpenFiles": [
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126221959.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126221905.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126220453.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126220413.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126220339.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126175436.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126175154.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126174959.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126173706.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126163130.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240126162139.png",
-    "Maquinas/Maquina_Hackaton.md",
-    "Maquinas/Maquina_Cybersploit.md",
-    "Maquinas/Maquina Recon.md",
     "Maquinas/Maquina_Pwned.md",
+    "Maquinas/Maquina_Cybersploit-2.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240129181738.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240129181624.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240129181241.png",
+    "Maquinas/Maquina_Hackaton.md",
     "Maquinas/Maquina_Monitoring.md",
+    "Maquinas/Maquina_Cybersploit.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240129175849.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240129175621.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240129175338.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240129174516.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240129173104.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240129173041.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240129165749.png",
+    "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
+    "Pentesting/Ciberseguridad/Python 🐍/1.Escala de privilegios Linux.md",
+    "Maquinas/Maquina Recon.md",
     "Maquinas/Maquina Who-wants-to-be-king.md",
     "Maquinas/Maquina Dpwwn.md",
     "Maquinas/Maquina PwnLab.md",
@@ -186,11 +201,8 @@
     "Pentesting/Ciberseguridad/1.Fundamentos Linux/2. Flujo de Trabajo💻.md",
     "Pentesting/Ciberseguridad/REFERENCIAS DE COMANDOS 🖥.md",
     "Pentesting/Ciberseguridad/3.Redes",
-    "Pentesting/Ciberseguridad/2.Comenzamos/2. Configuración.md",
     "Maquinas/Troll2",
     "Maquinas",
-    "Pentesting/Ciberseguridad/2.Comenzamos/1.Seguridad de la información.md",
-    "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
     "Pentesting/Ciberseguridad/2.Comenzamos",
     "Pentesting/Python/netcat-1.11/nc64.exe",
     "Pentesting/Python/dist/netcat-1.11/nc.exe",
