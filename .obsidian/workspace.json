@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23cb64c3d1cf3970",
+            "id": "c477dd7c824c5774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/Maquina Recon.md",
+                "file": "Maquinas/Maquina_HackSudo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69d10ebea0af9376",
+            "id": "024428c0125d6b6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/Maquina_CK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ee46c06d274163d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Ciberseguridad/Python 🐍/3. Reverse Shell.md",
+                "file": "Maquinas/Maquina DomDom.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maquinas/Maquina_CK.md",
+                "file": "Maquinas/Maquina_HackSudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maquinas/Maquina_CK.md",
+                "file": "Maquinas/Maquina_HackSudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maquinas/Maquina_CK.md"
+                "file": "Maquinas/Maquina_HackSudo.md"
               }
             }
           }
@@ -173,28 +160,30 @@
   },
   "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
-    "Maquinas/Maquina Victim -1.md",
+    "Maquinas/Maquina DomDom.md",
+    "Maquinas/Maquina_HackSudo.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220185523.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220185430.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220183439.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220183316.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220182823.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220182150.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220181103.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220175925.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220175450.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220035023.png",
+    "Maquinas/Maquina Agent.md",
     "Maquinas/Maquina Recon.md",
+    "Maquinas/Maquina Victim -1.md",
     "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
     "Pentesting/Ciberseguridad/Python 🐍/1.Escala de privilegios Linux.md",
     "Maquinas/Maquina_CK.md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240130220018.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240130215949.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240130204349.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240130203949.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240130202644.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240130160047.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240130160010.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240130155125.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240130154735.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240130154645.png",
     "Maquinas/Maquina_Cybersploit-2.md",
     "Maquinas/Maquina_Pwned.md",
     "Maquinas/Maquina Bob.md",
     "Maquinas/Maquina BossPlayers.md",
     "Maquinas/Maquina PwnLab.md",
     "Maquinas/Maquina Sunset-twilight.md",
-    "Maquinas/Maquina DomDom.md",
     "Maquinas/Maquina CengBox.md",
     "Maquinas/Maquina_Hackaton.md",
     "Maquinas/Maquina_Monitoring.md",
@@ -202,7 +191,6 @@
     "Maquinas/Maquina Who-wants-to-be-king.md",
     "Maquinas/Maquina Dpwwn.md",
     "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
-    "Maquinas/Maquina Agent.md",
     "Pentesting/Ciberseguridad/Python 🐍/3. Reverse Shell.md",
     "Maquinas/Maquina Kira.md",
     "Maquinas/Maquina W1R3S.md",
@@ -210,7 +198,6 @@
     "Maquinas/Victim - 1",
     "Maquinas/KIRA",
     "Maquinas/Maquina Bob",
-    "Pentesting/Ciberseguridad/1.Fundamentos Linux/2. Flujo de Trabajo💻.md",
     "Pentesting/Ciberseguridad/3.Redes",
     "Maquinas/Troll2",
     "Maquinas",
