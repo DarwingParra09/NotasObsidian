@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c477dd7c824c5774",
+            "id": "9f02030a69c91336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/Maquina_HackSudo.md",
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la SSRF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "024428c0125d6b6e",
+            "id": "23e304b243b2165e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/Maquina DomDom.md",
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maquinas/Maquina_HackSudo.md",
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maquinas/Maquina_HackSudo.md",
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maquinas/Maquina_HackSudo.md"
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md"
               }
             }
           }
@@ -150,9 +151,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
@@ -160,23 +161,38 @@
   },
   "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325120248.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325120214.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114336.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114320.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114242.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114207.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114101.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114039.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325113755.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240324005725.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240324005707.png",
+    "Burpsuite/ShellWeb.php",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la SSRF.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de autenticación.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Control de Acceso.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Path Traversal.md",
+    "Maquina_Aliens.md",
+    "Maquina_Thales.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor",
+    "Burpsuite",
+    "Pentesting/Ciberseguridad/REFERENCIAS DE COMANDOS 🖥.md",
+    "Pentesting/Ciberseguridad/HORARIOS DE ESTUDIO ⏰.md",
+    "Pentesting/Ciberseguridad/Python 🐍/3. Reverse Shell.md",
+    "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
+    "Pentesting/Ciberseguridad/Python 🐍/1.Escala de privilegios Linux.md",
+    "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
     "Maquinas/Maquina DomDom.md",
     "Maquinas/Maquina_HackSudo.md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220185523.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220185430.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220183439.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220183316.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220182823.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220182150.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220181103.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220175925.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220175450.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240220035023.png",
     "Maquinas/Maquina Agent.md",
     "Maquinas/Maquina Recon.md",
     "Maquinas/Maquina Victim -1.md",
-    "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
-    "Pentesting/Ciberseguridad/Python 🐍/1.Escala de privilegios Linux.md",
     "Maquinas/Maquina_CK.md",
     "Maquinas/Maquina_Cybersploit-2.md",
     "Maquinas/Maquina_Pwned.md",
@@ -184,26 +200,12 @@
     "Maquinas/Maquina BossPlayers.md",
     "Maquinas/Maquina PwnLab.md",
     "Maquinas/Maquina Sunset-twilight.md",
-    "Maquinas/Maquina CengBox.md",
-    "Maquinas/Maquina_Hackaton.md",
-    "Maquinas/Maquina_Monitoring.md",
-    "Maquinas/Maquina_Cybersploit.md",
-    "Maquinas/Maquina Who-wants-to-be-king.md",
-    "Maquinas/Maquina Dpwwn.md",
-    "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
-    "Pentesting/Ciberseguridad/Python 🐍/3. Reverse Shell.md",
-    "Maquinas/Maquina Kira.md",
-    "Maquinas/Maquina W1R3S.md",
-    "Maquinas/Maquina Troll2.md",
     "Maquinas/Victim - 1",
     "Maquinas/KIRA",
     "Maquinas/Maquina Bob",
     "Pentesting/Ciberseguridad/3.Redes",
     "Maquinas/Troll2",
     "Maquinas",
-    "Pentesting/Ciberseguridad/2.Comenzamos",
-    "Pentesting/Python/netcat-1.11/nc64.exe",
-    "Pentesting/Python/dist/netcat-1.11/nc.exe",
-    "Pentesting/Python/dist/netcat-1.11/readme.txt"
+    "Pentesting/Ciberseguridad/2.Comenzamos"
   ]
 }
