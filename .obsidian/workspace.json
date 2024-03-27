@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b63bdf5ce040c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md"
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md"
               }
             }
           }
@@ -161,6 +173,12 @@
   },
   "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163711.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163655.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163527.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163511.png",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325120248.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325120214.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114336.png",
@@ -168,13 +186,8 @@
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114242.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114207.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114101.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114039.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325113755.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240324005725.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240324005707.png",
     "Burpsuite/ShellWeb.php",
     "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la SSRF.md",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
     "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de autenticación.md",
     "Burpsuite/Vulnerabilidad del lado del servidor/Control de Acceso.md",
     "Burpsuite/Vulnerabilidad del lado del servidor/Path Traversal.md",
@@ -199,7 +212,6 @@
     "Maquinas/Maquina Bob.md",
     "Maquinas/Maquina BossPlayers.md",
     "Maquinas/Maquina PwnLab.md",
-    "Maquinas/Maquina Sunset-twilight.md",
     "Maquinas/Victim - 1",
     "Maquinas/KIRA",
     "Maquinas/Maquina Bob",
