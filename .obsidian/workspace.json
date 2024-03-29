@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f02030a69c91336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la SSRF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23e304b243b2165e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1b63bdf5ce040c53",
             "type": "leaf",
             "state": {
@@ -42,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce33ae3902bdf733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md"
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md"
               }
             }
           }
@@ -173,22 +161,23 @@
   },
   "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329124420.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329124311.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329124248.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329124202.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329121735.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329121718.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329121635.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329121610.png",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la SSRF.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de autenticación.md",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163711.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163655.png",
     "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163527.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163511.png",
     "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325120248.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325120214.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114336.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114320.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114242.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114207.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240325114101.png",
     "Burpsuite/ShellWeb.php",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la SSRF.md",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de autenticación.md",
     "Burpsuite/Vulnerabilidad del lado del servidor/Control de Acceso.md",
     "Burpsuite/Vulnerabilidad del lado del servidor/Path Traversal.md",
     "Maquina_Aliens.md",
@@ -211,7 +200,6 @@
     "Maquinas/Maquina_Pwned.md",
     "Maquinas/Maquina Bob.md",
     "Maquinas/Maquina BossPlayers.md",
-    "Maquinas/Maquina PwnLab.md",
     "Maquinas/Victim - 1",
     "Maquinas/KIRA",
     "Maquinas/Maquina Bob",
