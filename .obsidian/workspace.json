@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ca784321bd211f5f",
+        "id": "80e1cd33f6539371",
         "type": "tabs",
         "children": [
           {
-            "id": "1b63bdf5ce040c53",
+            "id": "f4c15f9a9c0dbc74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce33ae3902bdf733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
+                "file": "BurpSuite Apprentice/Intercambio de recursos entre orígenes (CORS).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
+                "file": "BurpSuite Apprentice/Intercambio de recursos entre orígenes (CORS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
+                "file": "BurpSuite Apprentice/Intercambio de recursos entre orígenes (CORS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md"
+                "file": "BurpSuite Apprentice/Intercambio de recursos entre orígenes (CORS).md"
               }
             }
           }
@@ -159,53 +146,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "58d0cfcab92e2cf2",
+  "active": "f4c15f9a9c0dbc74",
   "lastOpenFiles": [
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329124420.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329124311.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329124248.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329124202.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329121735.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329121718.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329121635.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240329121610.png",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240618161417.png",
+    "BurpSuite Apprentice/Intercambio de recursos entre orígenes (CORS).md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619144440.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619144003.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619143837.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619143755.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619143315.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619143254.png",
+    "CORS.html",
+    "BurpSuite Apprentice/Clickjacking.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619102731.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619102618.png",
+    "BurpSuite Apprentice/Falsificación de solicitudes entre sitios ( CSRF ).md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240618161647.png",
+    "BurpSuite Apprentice/Cross-site scripting (secuencias de comandos entre sitios).md",
+    "Clickjacking_Token.html",
+    "XSS reflejado en contexto HTML sin nada codificado.md",
+    "Burpsuite/SQL INJECTION/Subvirtiendo la lógica de la aplicación.md",
+    "BurpSuite Apprentice/SQL INJECTION APPRENTICE.md",
+    "Burpsuite/SQL INJECTION/Que es SQL injection.md",
+    "Burpsuite/SQL INJECTION/Ataques UNION de inyección SQL.md",
+    "Burpsuite/SQL INJECTION/Determinar el número de columnas necesarias.md",
+    "Burpsuite/SQL INJECTION/Recuperar datos ocultos.md",
+    "BurpSuite Apprentice",
+    "Burpsuite/SQL INJECTION/Inyección SQL basada en errores.md",
+    "Burpsuite/SQL INJECTION/Explotación de la inyección SQL ciega provocando retrasos de tiempo.md",
+    "Burpsuite/SQL INJECTION/Inyección SQL ciega.md",
+    "Burpsuite/SQL INJECTION/Recuperar múltiples valores dentro de una sola columna.md",
+    "Burpsuite/SQL INJECTION/Examinando bases de datos en ataques de inyección SQL.md",
+    "Burpsuite/SQL INJECTION/Usando un ataque UNION de inyección SQL para recuperar datos interesantes.md",
+    "Burpsuite/SQL INJECTION/Encontrar columnas con un tipo de datos útil.md",
+    "Maquina Cheran.md",
+    "Maquinas/Maquina Victim -1.md",
     "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la SSRF.md",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de autenticación.md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163711.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163655.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240327163527.png",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
-    "Burpsuite/ShellWeb.php",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Control de Acceso.md",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Path Traversal.md",
     "Maquina_Aliens.md",
     "Maquina_Thales.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
+    "Burpsuite/SQL INJECTION",
+    "Burpsuite/ShellWeb.php",
     "Burpsuite/Vulnerabilidad del lado del servidor",
     "Burpsuite",
-    "Pentesting/Ciberseguridad/REFERENCIAS DE COMANDOS 🖥.md",
-    "Pentesting/Ciberseguridad/HORARIOS DE ESTUDIO ⏰.md",
-    "Pentesting/Ciberseguridad/Python 🐍/3. Reverse Shell.md",
-    "Pentesting/Ciberseguridad/Python 🐍/2. Ejecución de Ficheros.md",
-    "Pentesting/Ciberseguridad/Python 🐍/1.Escala de privilegios Linux.md",
-    "Pentesting/Ciberseguridad/3.Redes/Topologías de Red.md",
-    "Maquinas/Maquina DomDom.md",
-    "Maquinas/Maquina_HackSudo.md",
-    "Maquinas/Maquina Agent.md",
-    "Maquinas/Maquina Recon.md",
-    "Maquinas/Maquina Victim -1.md",
-    "Maquinas/Maquina_CK.md",
-    "Maquinas/Maquina_Cybersploit-2.md",
-    "Maquinas/Maquina_Pwned.md",
-    "Maquinas/Maquina Bob.md",
-    "Maquinas/Maquina BossPlayers.md",
     "Maquinas/Victim - 1",
     "Maquinas/KIRA",
-    "Maquinas/Maquina Bob",
-    "Pentesting/Ciberseguridad/3.Redes",
-    "Maquinas/Troll2",
-    "Maquinas",
-    "Pentesting/Ciberseguridad/2.Comenzamos"
+    "Maquinas/Maquina Bob"
   ]
 }
