@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4c15f9a9c0dbc74",
+            "id": "f6ec0e2d082e510c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BurpSuite Apprentice/Intercambio de recursos entre orígenes (CORS).md",
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd4d26a6d8b4ce9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burpsuite/Vulnerabilidad del lado del servidor/Path Traversal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75cefdbe4d00e576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BurpSuite Apprentice/File path traversal, simple case.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BurpSuite Apprentice/Intercambio de recursos entre orígenes (CORS).md",
+                "file": "BurpSuite Apprentice/File path traversal, simple case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BurpSuite Apprentice/Intercambio de recursos entre orígenes (CORS).md",
+                "file": "BurpSuite Apprentice/File path traversal, simple case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BurpSuite Apprentice/Intercambio de recursos entre orígenes (CORS).md"
+                "file": "BurpSuite Apprentice/File path traversal, simple case.md"
               }
             }
           }
@@ -146,22 +171,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f4c15f9a9c0dbc74",
+  "active": "58d0cfcab92e2cf2",
   "lastOpenFiles": [
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240618161417.png",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Path Traversal.md",
+    "BurpSuite Apprentice/Vulnerabilidades de carga de archivos.md",
+    "BurpSuite Apprentice/File path traversal, simple case.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de autenticación.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Vulnerabilidades de carga de archivos.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240620164027.png",
+    "BurpSuite Apprentice/Autenticación.md",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240620165107.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240620165037.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240620165017.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240620164946.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240620164817.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240620164616.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240620164557.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240620164156.png",
+    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240620151940.png",
+    "BurpSuite Apprentice/Vulnerabilidades de control de acceso.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Control de Acceso.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
+    "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la SSRF.md",
     "BurpSuite Apprentice/Intercambio de recursos entre orígenes (CORS).md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619144440.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619144003.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619143837.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619143755.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619143315.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619143254.png",
-    "CORS.html",
+    "CORS_NullOrigin.html",
     "BurpSuite Apprentice/Clickjacking.md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619102731.png",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240619102618.png",
+    "CORS.html",
     "BurpSuite Apprentice/Falsificación de solicitudes entre sitios ( CSRF ).md",
-    "Pentesting/Ciberseguridad/Imagenes/Pasted image 20240618161647.png",
     "BurpSuite Apprentice/Cross-site scripting (secuencias de comandos entre sitios).md",
     "Clickjacking_Token.html",
     "XSS reflejado en contexto HTML sin nada codificado.md",
@@ -176,22 +213,11 @@
     "Burpsuite/SQL INJECTION/Explotación de la inyección SQL ciega provocando retrasos de tiempo.md",
     "Burpsuite/SQL INJECTION/Inyección SQL ciega.md",
     "Burpsuite/SQL INJECTION/Recuperar múltiples valores dentro de una sola columna.md",
-    "Burpsuite/SQL INJECTION/Examinando bases de datos en ataques de inyección SQL.md",
-    "Burpsuite/SQL INJECTION/Usando un ataque UNION de inyección SQL para recuperar datos interesantes.md",
-    "Burpsuite/SQL INJECTION/Encontrar columnas con un tipo de datos útil.md",
-    "Maquina Cheran.md",
-    "Maquinas/Maquina Victim -1.md",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la SSRF.md",
-    "Maquina_Aliens.md",
-    "Maquina_Thales.md",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Qué es la inyección SQL (SQLi).md",
-    "Burpsuite/Vulnerabilidad del lado del servidor/Inyección de comandos del sistema operativo.md",
     "Burpsuite/SQL INJECTION",
     "Burpsuite/ShellWeb.php",
     "Burpsuite/Vulnerabilidad del lado del servidor",
     "Burpsuite",
     "Maquinas/Victim - 1",
-    "Maquinas/KIRA",
-    "Maquinas/Maquina Bob"
+    "Maquinas/KIRA"
   ]
 }
